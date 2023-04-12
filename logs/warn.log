@@ -1833,3 +1833,217 @@
 {"level":40,"time":1679503344068,"pid":14196,"hostname":"Pavilion15","method":"GET","url":"/login/DestornilladorURL"}
 {"level":40,"time":1679503344389,"pid":14196,"hostname":"Pavilion15","msg":"Ruta no valida"}
 {"level":40,"time":1679503344389,"pid":14196,"hostname":"Pavilion15","method":"GET","url":"/login/tornillourl"}
+{"level":40,"time":1681340935000,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340935001,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1681340935414,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340935414,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340936835,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340936835,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681340937038,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340937038,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340938432,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340938432,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681340938568,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340938568,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340940050,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340940050,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681340940225,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340940226,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340941649,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340941649,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681340941914,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340941914,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340943259,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340943259,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681340943430,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340943430,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340944355,"pid":26876,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340944355,"pid":26876,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681340998302,"pid":26776,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340998302,"pid":26776,"hostname":"Pavilion15","method":"GET","url":"/api/test/63c995a685319a1afbc5b5f7"}
+{"level":40,"time":1681340998924,"pid":26776,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681340998924,"pid":26776,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341000381,"pid":26776,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341000381,"pid":26776,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681341000627,"pid":26776,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341000627,"pid":26776,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341001925,"pid":26776,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341001925,"pid":26776,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341184356,"pid":27740,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341184356,"pid":27740,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341204302,"pid":27740,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341204302,"pid":27740,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341374244,"pid":25392,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341374245,"pid":25392,"hostname":"Pavilion15","method":"GET","url":"/asdasd"}
+{"level":40,"time":1681341807401,"pid":10936,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341807401,"pid":10936,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341814175,"pid":10936,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341814175,"pid":10936,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341857685,"pid":28244,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341857685,"pid":28244,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341862580,"pid":28244,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341862580,"pid":28244,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341863383,"pid":28244,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341863383,"pid":28244,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681341890279,"pid":28244,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681341890279,"pid":28244,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342031386,"pid":27980,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342031387,"pid":27980,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342043206,"pid":27980,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342043206,"pid":27980,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1681342111916,"pid":27980,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342111916,"pid":27980,"hostname":"Pavilion15","method":"GET","url":"/"}
+{"level":40,"time":1681342148021,"pid":26908,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342148022,"pid":26908,"hostname":"Pavilion15","method":"GET","url":"/asdf"}
+{"level":40,"time":1681342418445,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342418445,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/asd"}
+{"level":40,"time":1681342418654,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342418654,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342420171,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342420171,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342420349,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342420349,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342421765,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342421765,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342421929,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342421929,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342423362,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342423362,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342423544,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342423544,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342424955,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342424956,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342425103,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342425103,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342426549,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342426549,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342426695,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342426695,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342427050,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342427050,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342427190,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342427190,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342428641,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342428641,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342428784,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342428784,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342430303,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342430304,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342430471,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342430471,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342431254,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342431254,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/login"}
+{"level":40,"time":1681342431395,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342431395,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342432975,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342432975,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342433147,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342433147,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342434571,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342434572,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342434729,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342434729,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342436174,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342436174,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342436353,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342436353,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342437793,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342437793,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342437912,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342437912,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342439399,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342439399,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342439561,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342439561,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342441028,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342441029,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342441174,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342441175,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342442624,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342442624,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342442816,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342442816,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342444258,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342444258,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342444396,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342444396,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342445850,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342445850,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342445983,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342445983,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342447481,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342447481,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342447633,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342447633,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342449072,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342449072,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342449213,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342449213,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342450702,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342450702,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342450943,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342450943,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342452339,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342452339,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342452483,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342452483,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342453938,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342453938,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342454074,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342454074,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342455554,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342455554,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342455716,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342455716,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342457201,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342457201,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342457355,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342457355,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342458852,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342458852,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342458997,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342458997,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342460438,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342460438,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342460573,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342460573,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342462023,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342462023,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342462254,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342462254,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342463615,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342463615,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342463761,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342463761,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342464316,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342464317,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342464523,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342464523,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342465921,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342465921,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342466058,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342466058,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342467589,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342467589,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342467708,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342467708,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342469242,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342469242,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342469387,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342469387,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342470858,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342470858,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/register"}
+{"level":40,"time":1681342470984,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342470984,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342472577,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342472577,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342481053,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342481054,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/login"}
+{"level":40,"time":1681342481216,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342481216,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342482846,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342482846,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/favicon.ico"}
+{"level":40,"time":1681342630616,"pid":5200,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342630616,"pid":5200,"hostname":"Pavilion15","method":"GET","url":"/asdf"}
+{"level":40,"time":1681342645154,"pid":14464,"hostname":"Pavilion15","msg":"Ruta no valida"}
+{"level":40,"time":1681342645155,"pid":14464,"hostname":"Pavilion15","method":"GET","url":"/asdf"}

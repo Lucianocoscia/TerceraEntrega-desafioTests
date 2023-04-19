@@ -35,6 +35,10 @@ import logger from "./lib/logger.js";
 
 //persistencia factory
 import ProductDaoFactory from "./daos/productDaoFactory.js";
+// graphql
+import { graphqlHTTP } from "express-graphql";
+import schema from "./graphql/product.schema.js";
+import { testController } from "./controllers/test.product.controller.js";
 
 const cpus = os.cpus();
 
@@ -123,6 +127,23 @@ if (cluster.isPrimary && args.mode.toUpperCase() === "CLUSTER") {
   });
 
   app.use("/", router); //le paso las rutas
+
+  // graphql
+
+  app.use(
+    "/graphql",
+    graphqlHTTP({
+      schema,
+      rootValue: {
+        getProduct: testController.getProduct,
+        getAll: testController.getAll,
+        create: testController.create,
+        update: testController.update,
+        deleteDocument: testController.deleteDocument,
+      },
+      graphiql: true,
+    })
+  );
 
   mongoose.set("strictQuery", true); //mongoose set para sacar warning
   mongoose.connect(process.env.URL_MONGOATLAS); //mongoose conecction
